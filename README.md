@@ -17,11 +17,15 @@ The model is trained and tested on synthetic datasets derived from the MNIST dat
 **Training and Testing**: The model is trained on 60,000 synthetic training images and tested on 10,000 synthetic test images.
 
 ## Technologies Used
--Python
--Keras
--NumPy
--TensorFlow
--Scikit-Image
+- Python
+  
+- Keras
+  
+- NumPy
+  
+- TensorFlow
+  
+- Scikit-Image
 -Matplotlib
 
 ## Results
